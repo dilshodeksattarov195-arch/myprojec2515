@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervave",
+        "uuid": 21126000,
+        "checksum": "x504ic"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
